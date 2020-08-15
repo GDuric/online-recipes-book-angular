@@ -1,0 +1,9 @@
+.recipe-items{
+    margin: 5px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.recipe-item{
+    margin: 5px 0;
+}

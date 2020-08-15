@@ -1,0 +1,8 @@
+.pull-left{
+    display: flex;
+    flex-direction: row;
+   
+}
+.img-responsive{
+    max-width: 80px;
+}
